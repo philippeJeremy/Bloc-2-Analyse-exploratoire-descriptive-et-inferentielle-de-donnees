@@ -1,6 +1,6 @@
 # Bloc-2-Analyse-exploratoire-descriptive-et-inferentielle-de-donnees
 
-This project from zero you don't have any data you have to scrap it and then store it then recover it to clean it and store it in an SQL database for exploitation.
+This project consists of exploring a large amount of data, to filter, clean and visualize the data.
 
 ## To begin
 
@@ -15,8 +15,7 @@ What is required to get started with your project...
 
 ## Start-up
 
-
-This block starts with the .py files that will collect the data and ends with the .ipynb file for cleaning and storing the data, follow the annotations in the scrypts
+A single .ipynb file to explore and visualize data
 
 ## Versions
 Listez les versions ici 
