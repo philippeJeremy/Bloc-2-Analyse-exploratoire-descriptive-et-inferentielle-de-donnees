@@ -1,7 +1,5 @@
 # Bloc-2-Analyse-exploratoire-descriptive-et-inferentielle-de-donnees
 
-video: https://share.vidyard.com/watch/p968kJcJYKnh6gNLeqru5u?
-
 certification: https://www.francecompetences.fr/recherche/rncp/35288/
 
 This project consists of exploring a large amount of data, to filter, clean and visualize the data.
